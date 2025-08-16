@@ -1,12 +1,15 @@
 # vsllama
 
-vsllama, [kısa bir açıklama: Bu proje ne işe yarar?]
+vsllama, modern yapay zeka destekli özelliklere sahip, hızlı ve kullanıcı dostu bir entegre geliştirme ortamıdır (IDE). Yazılım geliştiricilerine kod yazımı, hata ayıklama, kod tamamlama ve proje yönetimi gibi süreçlerde yardımcı olmayı amaçlar.
 
 ## Özellikler
 
-- [Temel özellik 1]
-- [Temel özellik 2]
-- [Diğer önemli fonksiyonlar]
+- Llama tabanlı gelişmiş kod tamamlama ve öneri sistemi
+- Çoklu programlama dili desteği
+- Hata ayıklama (debugging) araçları
+- Sürükle-bırak proje yönetimi arayüzü
+- Temiz ve özelleştirilebilir kullanıcı arayüzü
+- Eklenti desteğiyle genişletilebilirlik
 
 ## Kurulum
 
@@ -33,5 +36,3 @@ Katkı sağlamak için lütfen bir issue açın veya doğrudan pull request gön
 ## Lisans
 
 [İlgili lisans bilgisi buraya yazılmalı.]
-
-Açıklama ve özellikler seni yansıtacak şekilde ister dilediğin gibi değiştirebilirsin.
